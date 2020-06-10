@@ -6,7 +6,9 @@ objective
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
-click on the link bellow to see the project in activation : https://papy1974.github.io/homewor2_papy_lontomba/
+click on the link bellow to see the project in activation : 
+
+![porto](https://user-images.githubusercontent.com/58053159/84225852-3648e600-aaae-11ea-9539-d4fd82c7e3e6.png)
 
 installation
 In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have acces to the codes that help to build a project. from this project, I learned that the way to use bootstrap to make the page more responsive. 
